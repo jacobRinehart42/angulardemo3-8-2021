@@ -10,5 +10,5 @@ export class AppComponent {
   csci160 = COURSES[0];
   csci161 = COURSES[1];
   csci213 = COURSES[2];
-  csci214 = COURSES[3];
+  csci313 = COURSES[3];
 }
